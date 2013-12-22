@@ -1,0 +1,1 @@
+This is a simple rails test application created to test the functionalities offered by "Ruby on Rails".
